@@ -13,8 +13,6 @@ cd -
 pip install shapely
 python clip_roads.py
 
-cat data/AsiaSouth-Full.tsv | grep "^IND" | cut -f2 > data/ms_roads_india.geojsonl
-
 tippecanoe -P -zg  -o data/ms_roads_india.mbtiles --drop-densest-as-needed --extend-zooms-if-still-dropping -l ms_roads_india -n ms_roads_india -A '<a href="https://github.com/microsoft/RoadDetections" target="_blank" rel="noopener noreferrer">MS Roads</a> - <a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener noreferrer">ODbl</a>' data/ms_roads_india.geojsonl
 
 pmtiles convert data/ms_roads_india.mbtiles data/ms_roads_india.pmtiles

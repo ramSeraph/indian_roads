@@ -6,6 +6,7 @@ Data available in the repository:
 * [PMGSY Roads](https://github.com/ramSeraph/indian_roads/releases/tag/pmgsy-roads)
 * [FB Roads](https://github.com/ramSeraph/indian_roads/releases/tag/fb-roads)
 * [MS Roads](https://github.com/ramSeraph/indian_roads/releases/tag/ms-roads)
+* [Urban Roads](https://github.com/ramSeraph/indian_roads/releases/tag/urban-roads)
 
 The tileset deployment code is at [indianopenmaps](https://github.com/ramSeraph/indianopenmaps)
 

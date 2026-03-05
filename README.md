@@ -1,13 +1,15 @@
-Contains data from various sources about Indian roads.
+Contains data from various sources about Indian Trasportation infrastructure.
 
 Data available in the repository:
-* [SOI Roads](https://github.com/ramSeraph/indian_roads/releases/tag/soi-roads)
-* [NIC Roads](https://github.com/ramSeraph/indian_roads/releases/tag/nic-roads)
-* [PMGSY Roads](https://github.com/ramSeraph/indian_roads/releases/tag/pmgsy-roads)
-* [FB Roads](https://github.com/ramSeraph/indian_roads/releases/tag/fb-roads)
-* [MS Roads](https://github.com/ramSeraph/indian_roads/releases/tag/ms-roads)
-* [Urban Roads](https://github.com/ramSeraph/indian_roads/releases/tag/urban-roads)
-* [MORTH Roads](https://github.com/ramSeraph/indian_roads/releases/tag/morth-roads)
+* [SOI Roads](https://github.com/ramSeraph/indian_transport/releases/tag/soi-roads)
+* [NIC Roads](https://github.com/ramSeraph/indian_transport/releases/tag/nic-roads)
+* [PMGSY Roads](https://github.com/ramSeraph/indian_transport/releases/tag/pmgsy-roads)
+* [FB Roads](https://github.com/ramSeraph/indian_transport/releases/tag/fb-roads)
+* [MS Roads](https://github.com/ramSeraph/indian_transport/releases/tag/ms-roads)
+* [Urban Roads](https://github.com/ramSeraph/indian_transport/releases/tag/urban-roads)
+* [MORTH Roads](https://github.com/ramSeraph/indian_transport/releases/tag/morth-roads)
+* [Railways](https://github.com/ramSeraph/indian_transport/releases/tag/railways)
+* [Inland Waterways](https://github.com/ramSeraph/indian_transport/releases/tag/inland-waterways)
 
 The tileset deployment code is at [indianopenmaps](https://github.com/ramSeraph/indianopenmaps)
 
